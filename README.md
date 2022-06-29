@@ -7,16 +7,15 @@ I am OctoberRain, welcome to follow me ~
 - 👯 I’m looking to collaborate on open source project
 - 📫 How to reach me: 572626298@qq.com
 - 😄 Pronouns: shiyu
-<!-- - 💬 Ask me about  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact:  -->
+  <!-- - 💬 Ask me about  -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - ⚡ Fun fact:  -->
 
 
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="https://github.com/october-rain/october-rain" style="margin-bottom: 20px;"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=october-rain&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/october-rain/october-rain"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=october-rain&show_icons=true&layout=compact&theme=dracula"/>
-  </a>
-</div>
+<a href="https://github.com/october-rain/october-rain" style="margin-bottom: 20px;"> 
+  <img align="center" style="width: 100%; height: 35vh" src="https://github-readme-stats.vercel.app/api?username=october-rain&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+</a>
+
+<a href="https://github.com/october-rain/october-rain">
+  <img align="center" style="width: 100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=october-rain" />
+</a>
