@@ -1,4 +1,4 @@
-### Hi there 👋 <img height="20" src="https://visitor-badge.glitch.me/badge?page_id=october-rain">
+# Hi there 👋 <img height="20" src="https://visitor-badge.glitch.me/badge?page_id=october-rain">
 
 I am OctoberRain, welcome to follow me ~
 
